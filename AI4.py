@@ -50,3 +50,11 @@ def print_board(board, N):
 
 if __name__ == "__main__":
     main()
+
+# Output :
+# Enter No of Queens: 5
+#  Q   _   _   _   _  
+#  _   _   _   Q   _  
+#  _   Q   _   _   _  
+#  _   _   _   _   Q  
+#  _   _   Q   _   _ 
