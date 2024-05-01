@@ -51,3 +51,28 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# OUTPUT :
+
+# Enter Your Name : Prathmesh
+# Hello Prathmesh Welcome to AASWAD-Restaurent
+
+# What would you like to order Prathmesh
+
+# Option 1 : Rice-Plate
+# Option 2 : Samosa
+# Option 3 : Vada-Pav
+# Option 4 : Chole-Bhature
+# Option 5 : Pohe
+
+# I would like to have option : 1
+
+# You Confirm order : Rice-Plate
+# Do you want anything else (yes/no): no
+
+# Your Order is :
+# Rice-Plate 1
+
+# Your total bill is 50
+
+# Thanks for your order!
