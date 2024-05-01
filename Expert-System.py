@@ -24,3 +24,12 @@ def print_result(should_buy):
 
 if __name__ == "__main__":
     main()
+
+# OUTPUT :
+
+# Welcome to the Stock Market Trading System!
+# Please answer the following questions:
+# What is the current market trend? (Upwards/Downwards): upwards
+# How are the fundamentals of the company? (strong/weak): weak
+# What do the technical indicators suggest? (positive/negative): positive
+# Recommendation: Do not buy the stock.
