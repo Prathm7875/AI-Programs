@@ -57,3 +57,8 @@ def main():
 
 
 main()
+
+
+# Output :
+# Minimum spanning tree: [('A', 'D', 3), ('D', 'C', 1), ('C', 'B', 2), ('A', 'E', 5)]
+# Total cost: 11
